@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center"><a href="https://vuejs.org" target="_blank"><img width="100"src="https://vuejs.org/images/logo.png"></a></p>
 
 <p align="center">
@@ -223,3 +224,7 @@ Thank you to all the people who already contributed to Vue!
 [MIT](http://opensource.org/licenses/MIT)
 
 Copyright (c) 2013-present, Yuxi (Evan) You
+=======
+# vue-
+仿百度糯米
+>>>>>>> 9a9785478ec201cc8d0020655b4efe2989f1efe3
